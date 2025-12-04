@@ -2,7 +2,7 @@
 
 ## Overview
 
-Built off the open-source project - Robot Nanohand - and augmented to translate input from EMG sensors. 
+Our Robotic Hand is built off the open-source project - [Robot Nanohand](https://robotnanohand.com/) - and augmented to translate input from EMG sensors. This project was made in a 11-week span under the ME 480 Advanced CAD course from the University of Washington.
 
 **Build specs:**
 
@@ -17,7 +17,7 @@ The MechARMical Robotic Hand features:
 ### Hardware
 
 1. Manufacturing of individual parts
-2. Assembly
+2. Assembly of hand, incorporating electronics
 
 ### Software
 
@@ -26,7 +26,7 @@ The MechARMical Robotic Hand features:
 
 ### Quick Reference
 
-* **Bill of Materials**: Complete component list with suppliers
+* **Bill of Materials**: Component List
 * **Nanohand Open-Source**: Available in `/3D/` directory (OnShape CAD)
 * **Software Control**: Software Repository using FeeTech
 
